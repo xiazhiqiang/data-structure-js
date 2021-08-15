@@ -1,4 +1,4 @@
-import ValuePair from "./valuePair";
+import ValuePair from "../utils/valuePair";
 import { defaultToString } from "@/utils/index";
 
 /**

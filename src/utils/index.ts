@@ -1,8 +1,8 @@
 export const defaultToString = (p: any) => {
   if (p === null) {
-    return 'NULL';
+    return "NULL";
   } else if (p === undefined) {
-    return 'undefined';
+    return "undefined";
   } else {
     return p.toString();
   }
